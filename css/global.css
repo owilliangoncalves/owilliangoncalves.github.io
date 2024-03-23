@@ -4,6 +4,11 @@ body {
   color: #141414;
 
 }
+a{
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
 h1,
 h2,
 h3,
