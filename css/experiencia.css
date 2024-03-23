@@ -96,7 +96,7 @@
     text-align: left;
   }
   .empresa-ano::before {
-    content: "Ano: ";
+    content: "Year: ";
   }
 
   @media (max-width: 800px) {
